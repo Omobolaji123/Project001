@@ -1,0 +1,54 @@
+body {
+	background-color: #EDEDED; 
+}
+div.display-container {
+	margin: 0px 20px 0px 25px;
+}
+
+img.display-latest{
+	width: 100%;
+	height: 384px;
+}
+
+i.arrow {
+	position: relative;
+	bottom:200px;
+}
+i.arrow_right {
+	float:right;
+}
+
+div.container-content {
+	margin: 0px 10px;
+}
+
+div.content {
+	text-align: center;
+	padding: 15px; 
+}
+
+div.product {
+	text-align: center;
+	padding: 15px;
+	background-color: #fff; 
+}
+
+h3.description-label {
+	color: #000;
+}
+figcaption {
+	margin-top: 15px;
+	font-family: 'Balsamiq Sans', cursive;
+	font-size: 2rem;
+}
+figcaption.otherInfo {
+	font-size: 1.2rem;
+}
+h3.asideAD-label {
+	margin-top: 0px;
+}
+footer {
+	margin-top: 20px;
+	padding: 20px;
+	background-color: #06040E;  
+}
